@@ -18,3 +18,28 @@ h1 {
 
 }
 
+ul {
+    
+    beckground color: blue;
+    border: 2px black solid;
+    
+}
+
+li {
+    
+    float: left;
+    background color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+li a {
+    
+    background-color: green;
+    
+    
+}
+
