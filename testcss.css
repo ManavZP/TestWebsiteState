@@ -30,6 +30,7 @@ ul {
 
 li {
     
+    display: block;
     float: left;
     background-color: blue;
     color: white;
