@@ -5,8 +5,10 @@ body {
 }
 
 p {
-
-
+    
+    color: blue;
+    padding: 5px;
+    margin: 5px;
 
 }
 
@@ -20,6 +22,7 @@ h1 {
 
 ul {
     
+    align: left;
     beckground color: blue;
     border: 2px black solid;
     
@@ -31,8 +34,8 @@ li {
     background color: blue;
     color: white;
     text-decoration: none;
-    padding: 0px;
-    margin: 0px;
+    padding: 5px;
+    margin: 0px 0px;
     
 }
 
@@ -40,12 +43,4 @@ li a {
     
     background-color: green;
     
-    
-}
-
-
-    background-color: green;
-    
-    
-}
 
