@@ -23,7 +23,7 @@ h1 {
 ul {
     
     align: left;
-    beckground color: blue;
+    beckground-color: blue;
     border: 2px black solid;
     
 }
@@ -31,7 +31,7 @@ ul {
 li {
     
     float: left;
-    background color: blue;
+    background-color: blue;
     color: white;
     text-decoration: none;
     padding: 5px;
@@ -42,6 +42,12 @@ li {
 li a {
     
     background-color: green;
+    
+}
+
+li a:hover {
+    
+    background-color: white;
     
 }
     
