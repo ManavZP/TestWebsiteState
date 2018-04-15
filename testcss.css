@@ -5,12 +5,12 @@ body {
 }
 
 html{
-    background-image: url("ssw.jpg");
+    background-image: url("fort.jpg");
 }
 
 #parallax1 {
 
-    background-image: url("fort.jpg");
+    background-image: url("ssw.jpg");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
