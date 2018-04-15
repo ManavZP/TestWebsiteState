@@ -4,7 +4,7 @@ body {
     
 }
 
-parallax-1 {
+#parallax-1 {
 
     background-image: url("fort.jpg");
     height: 100%;
@@ -34,6 +34,7 @@ h1 {
 ul {
     
     align: left;
+    overflow: hidden;
     
 }
 
@@ -50,7 +51,8 @@ li {
 li a {
     
     display: block;
-    background-color: green;
+    padding: 8px;
+    background-color: #dddddd;
     
 }
 
