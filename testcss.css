@@ -40,19 +40,17 @@ ul {
 
 li {
     
-    padding: 5px;
     float: left;
     background-color: blue;
-    color: white;
-    text-decoration: none;
     
 }
 
 li a {
     
+    color: white;
     display: block;
     padding: 14px 16px;
-    background-color: #dddddd;
+    text-decoration: none;
     
 }
 
