@@ -4,7 +4,7 @@ body {
     
 }
 
-.parallax1 {
+#parallax1 {
 
     background-image: url("fort.jpg");
     height: 100%;
@@ -17,7 +17,7 @@ body {
 
 p {
     
-    color: blue;
+    color: red;
     padding: 5px 5px;
     margin: 20px 20px;
 
