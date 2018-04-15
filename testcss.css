@@ -11,7 +11,7 @@ html{
 .parallax1 {
 
     background-image: url("ssw.jpg");
-    height: 500px; 
+    height: 100%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
