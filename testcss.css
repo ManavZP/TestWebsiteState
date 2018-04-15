@@ -33,15 +33,17 @@ h1 {
 
 ul {
     
-    align: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    background-color: blue;
     
 }
 
 li {
     
     float: left;
-    background-color: blue;
     
 }
 
