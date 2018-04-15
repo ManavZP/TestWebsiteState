@@ -4,7 +4,7 @@ body {
     
 }
 
-#parallax1 {
+.parallax1 {
 
     background-image: url("fort.jpg");
     height: 100%;
